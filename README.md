@@ -25,7 +25,7 @@ npm install --save-dev nodemon
 
 Passo 3:
 
-Gerar uma chave de Api no https://cloud.google.com/vision e ativar o faturamento.
+Gerar uma chave de Api do Google Cloud Vision no https://cloud.google.com/vision e ativar o faturamento.
 
 Passo 4:
 
