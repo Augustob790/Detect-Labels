@@ -12,7 +12,7 @@ const app = express();
     // Criando um cliente
     const client = new vision.ImageAnnotatorClient({
         //Chave de acesso da api
-        keyFilename: 'key.json'
+        keyFilename: 'sua chave aqui.json'
     });
   
     //cliente
