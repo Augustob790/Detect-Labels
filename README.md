@@ -29,7 +29,8 @@ Gerar uma chave de Api do Google Cloud Vision no https://cloud.google.com/vision
 
 Passo 4:
 
-Baixar o codigo e seguir os passos 1 ao 4;
+Baixar o codigo e seguir os passos 1 ao 4
+
 Adicionar a Chave de Api no Local indicado no codigo
 
 Passo 5
