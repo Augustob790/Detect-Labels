@@ -12,12 +12,15 @@ Passo 2:
 Criar um projeto Node.Js e instalar as dependencias a seguir:
 
 GOOGLE CLOUD VISION
+
 npm install @google-cloud/vision
 
 EXPRESS
+
 npm install express
 
 NODEMON
+
 npm install --save-dev nodemon
 
 Passo 3:
